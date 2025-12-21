@@ -1,0 +1,9 @@
+Matrix_Size,Mean_Time_ms,Std_Time_ms,Failed,Device,PyTorch_Version
+128,0.2934,0.0379,False,mps,2.10.0a0+gitae25447
+256,0.3516,0.0550,False,mps,2.10.0a0+gitae25447
+512,0.5663,0.0346,False,mps,2.10.0a0+gitae25447
+1024,1.9182,0.5814,False,mps,2.10.0a0+gitae25447
+2048,4.9270,0.2920,False,mps,2.10.0a0+gitae25447
+4096,36.0519,0.0865,False,mps,2.10.0a0+gitae25447
+8192,295.1001,0.3936,False,mps,2.10.0a0+gitae25447
+16384,2586.2392,59.3994,False,mps,2.10.0a0+gitae25447
