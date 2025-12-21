@@ -1,0 +1,9 @@
+Matrix_Size,Mean_Time_ms,Std_Time_ms,Failed,Device,PyTorch_Version
+128,0.0569,0.0359,False,cuda,2.8.0+cu128
+256,0.0459,0.0112,False,cuda,2.8.0+cu128
+512,0.0432,0.0043,False,cuda,2.8.0+cu128
+1024,0.0839,0.0023,False,cuda,2.8.0+cu128
+2048,0.4093,0.0829,False,cuda,2.8.0+cu128
+4096,2.7359,0.0791,False,cuda,2.8.0+cu128
+8192,21.2988,0.1576,False,cuda,2.8.0+cu128
+16384,168.4928,9.0588,False,cuda,2.8.0+cu128
