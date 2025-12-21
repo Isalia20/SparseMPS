@@ -1,5 +1,4 @@
 # SparseMPS
-Repository for Sparse MPS matrices paper.
 
 All the ops currently implemented in PyTorch MPS can be seen in `list_of_ops.txt` file. There are currently 162 ops implemented which is on par with other CPU/CUDA implementations in torch.
 
