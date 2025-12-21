@@ -151,7 +151,7 @@ abs_sparse = torch.abs(sparse_tensor)
 sin_sparse = torch.sin(sparse_tensor)
 exp_sparse = torch.exp(sparse_tensor)
 relu_sparse = torch.relu(sparse_tensor)
-
+```
 
 ## Benchmarks
 
