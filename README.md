@@ -151,3 +151,11 @@ abs_sparse = torch.abs(sparse_tensor)
 sin_sparse = torch.sin(sparse_tensor)
 exp_sparse = torch.exp(sparse_tensor)
 relu_sparse = torch.relu(sparse_tensor)
+```
+
+## Benchmarks
+
+To reproduce the performance comparisons between dense and sparse operations on MPS, run the benchmark script:
+
+```bash
+python benchmark_dense_sparse.py
