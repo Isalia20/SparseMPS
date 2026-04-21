@@ -159,3 +159,8 @@ To reproduce the performance comparisons between dense and sparse operations on 
 
 ```bash
 python benchmark_dense_sparse.py
+```
+
+## Visualization
+
+To visualize the result, simply clone the repo, install matplotlib/numpy and run the visualization.py with `python visualization.py`
